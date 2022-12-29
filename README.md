@@ -44,4 +44,4 @@ The code is in a Jupyter notebook. There are many ways of runnig Jupyter noteboo
 jupyter notebook byu_pathway_tuition_by_country.ipynb
 ```
 
-The notebook will by default show tuition fees as of November 12, 2022, but you can update it by going to `Cell -> Run All`.
+The notebook will by default show tuition fees as of December 28, 2022, but you can update it by going to `Cell -> Run All`.
