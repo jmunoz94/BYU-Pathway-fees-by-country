@@ -41,7 +41,7 @@ pip install -r requirements.txt
 The code is in a Jupyter notebook. There are many ways of runnig Jupyter notebooks; to open the file directly in your browser use:
 
 ```shell
-jupyter notebook byu_pathway_tuition_by_country.ipynb
+python -m notebook byu_pathway_tuition_by_country.ipynb
 ```
 
-The notebook will by default show tuition fees as of February 9, 2023, but you can update it by going to `Cell -> Run All`.
+The notebook will by default show tuition fees as of July 3, 2023, but you can update it by going to `Cell -> Run All`.
